@@ -1,0 +1,2 @@
+# Bibile-word
+Dialy messages
